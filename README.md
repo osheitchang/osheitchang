@@ -1,5 +1,12 @@
-## Hi there 👋
+#Hi there, welcome to my personal repo 👋
+##I am a software engineer that focuses on full-stack web and mobile development
 
+[!NOTE]
+I'm currently learning about AI to work on a couple of projects in the education industry.
+
+I graduated from a full-stack web development bootcamp in Miami (IronHack), and I worked as a developer at City National Bank of Florida.
+
+Currently looking to collaborate with other software engineers.
 <!--
 **osheitchang/osheitchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
